@@ -2,11 +2,11 @@
 import Hero_person from "./assets/images/Hero/person.png";
 
 // import figma from "./assets/images/Skills/figma.png";
-import sketch from "./assets/images/Skills/sketch.png";
-// import ps from "./assets/images/Skills/ps.png";
+import sketch from "./assets/images/Skills/Js.png";
+import ps from "./assets/images/Skills/Expressjs.png";
 import reactjs from "./assets/images/Skills/react.png";
 import nodejs from "./assets/images/Skills/node.png";
-import python from "./assets/images/Skills/python.png";
+import python from "./assets/images/Skills/Mui.png";
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -93,19 +93,19 @@ export const content = {
         para: "Lorem ipsum text  dummy",
         logo: nodejs,
       },
-      // {
-      //   name: "Adobe Photoshop",
-      //   para: "Lorem ipsum text  dummy",
-      //   logo: ps,
-      // },
+      {
+        name: "Express.js",
+        para: "Lorem ipsum text  dummy",
+        logo: ps,
+      },
      
       {
-        name: "Sketch",
+        name: "Java Script",
         para: "Lorem ipsum text  dummy",
         logo: sketch,
       },
       {
-        name: "Python",
+        name: "Mui",
         para: "Lorem ipsum text  dummy",
         logo: python,
       },
@@ -122,12 +122,12 @@ export const content = {
         logo: services_logo1,
       },
       {
-        title: "ui / ux DESIGNING",
+        title: "App Devolopment",
         para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
         logo: services_logo2,
       },
       {
-        title: "PhotoShop Editing",
+        title: "Admin dashboard Templates",
         para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
         logo: services_logo3,
       },
@@ -195,19 +195,19 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "bussinessguy5909@gmail.com",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:bussinessguy5909@gmail.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "03498115909",
         icon: MdCall,
         link: "https://wa.me/1234567890",
       },
       {
-        text: "codeaprogram",
+        text: "farukh-hn-my",
         icon: BsInstagram,
-        link: "https://www.instagram.com/codeaprogram/",
+        link: "https://www.instagram.com/farukh-hn-my/",
       },
     ],
   },
